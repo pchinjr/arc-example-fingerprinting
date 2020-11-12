@@ -7,4 +7,4 @@ test-fingers
 folder public
 fingerprint true
 ignore
-  .html
+  index.html
