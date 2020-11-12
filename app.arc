@@ -6,3 +6,5 @@ test-fingers
 @static
 folder public
 fingerprint true
+ignore
+  html
