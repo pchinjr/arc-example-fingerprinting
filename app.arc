@@ -4,4 +4,7 @@ test-fingers
 @http
 @static
 folder public
-fingerprint false
+fingerprint true
+ignore
+  index.html
+prune true
